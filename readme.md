@@ -7,5 +7,5 @@ https://www.waveshare.com/esp32-s3-touch-lcd-7.htm
 The code is not ready yet but will be published as soon as possible.
 
 <br/><br/>
-<img width="500" src="./images/thumb.jpg">
+<img width="500" src="./thumb.jpg">
 <br/><br/>
